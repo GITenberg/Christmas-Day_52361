@@ -1,5 +1,5 @@
 _repo: Christmas-Day_52361
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: An Old Fashioned Christmas Day
 contributor:
   illustrator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1935
     gutenberg_agent_id: '41602'
     url: http://www.gutenberg.org/2009/agents/41602
+covers:
+- cover_type: archival
+  image_path: 52361-h/images/cover.jpg
 creator:
   author:
     agent_name: Irving, Washington
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34
     wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
 description: Excerpt from "Old Christmas."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52361#Christmas-Day
 gutenberg_issued: '2016-06-17'
 gutenberg_type: Text
 identifiers:
