@@ -1,0 +1,36 @@
+_repo: Christmas-Day_52361
+_version: 0.0.1
+alternative_title: An Old Fashioned Christmas Day
+contributor:
+  illustrator:
+    agent_name: Aldin, Cecil
+    alias: Aldin, Cecil Charles Windsor
+    birthdate: 1870
+    deathdate: 1935
+    gutenberg_agent_id: '41602'
+    url: http://www.gutenberg.org/2009/agents/41602
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: Excerpt from "Old Christmas."
+gutenberg_issued: '2016-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories, American'
+- !lcc 'PS'
+- !lcsh 'Christmas -- England'
+- GITenberg
+title: Christmas Day
+url: http://www.gutenberg.org/ebooks/52361
